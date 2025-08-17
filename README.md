@@ -4,3 +4,7 @@ docker
 docker deamon 
 Ubuntu 
 Linux 
+mpende kujifunza
+msije mkaibiwa
+haya mambo yanawezekana
+kabisa
